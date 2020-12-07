@@ -1,1 +1,1 @@
-# goit-js-module-10
+# webpack_for_clone
